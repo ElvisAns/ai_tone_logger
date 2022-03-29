@@ -9,8 +9,8 @@ After installing the plugin by either unzipping the release file onto the plugin
 
 <h1>New Release</h1>
 
-- The tone is not appended to the comment so that it is visible every where
+- The tone is now appended to the comment so that it is visible every where
 
 ![image](https://user-images.githubusercontent.com/35831811/160546686-3b582618-f426-4ced-a041-5b3032b4900b.png)
-![image](https://user-images.githubusercontent.com/35831811/160546704-9470462d-231e-4255-8dff-62fc4e4e9407.png)
+![image](https://user-images.githubusercontent.com/35831811/160546704-9470462d-231e-4255-8dff-62fc4e4e9407.png)<br>
 Some usage case (before and after plugin installayion)
